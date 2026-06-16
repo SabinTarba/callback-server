@@ -1,0 +1,15 @@
+{
+  "name": "callback server getik",
+  "version": "1.0.0",
+  "main": "callback_server.js",
+  "scripts": {
+    "start": "node callback_server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
